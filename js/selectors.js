@@ -8,7 +8,7 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return $('img #baby-ninja')
+  return $('.pics img:first-child')
 }
 
 function divSelector(){
