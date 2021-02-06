@@ -11,6 +11,10 @@ function ninjaBabySelector() {
   $('#ninj-baby')
 }
 
+function divSelector(){
+    
+}
+
 function firstListItem() {
   $('#pick-list ul li:first')
 }
