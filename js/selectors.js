@@ -6,3 +6,11 @@ function paragraphSelector() {
 function lastImageSelector() {
   return $('img:last')
 }
+
+function ninjaBabySelector() {
+  $('#ninjababy')
+}
+
+function firstListItem() {
+  $('#pick-list ul li:first')
+}
